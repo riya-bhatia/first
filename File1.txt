@@ -4,7 +4,7 @@
 riya bhatia
 intermediate git
 change - 3 
-change4
+change - 4
 change5
 =======
 >>>>>>> parent of 933acf1... Changes in File1
