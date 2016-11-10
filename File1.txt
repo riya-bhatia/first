@@ -6,7 +6,7 @@ intermediate git
 change - 3 
 change - 4
 change5
-change6
+change - 6
 =======
 >>>>>>> parent of 933acf1... Changes in File1
 =======
