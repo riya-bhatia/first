@@ -7,11 +7,5 @@ change - 3
 change - 4
 change5
 change - 6
-=======
->>>>>>> parent of 933acf1... Changes in File1
-=======
->>>>>>> parent of 933acf1... Changes in File1
-=======
->>>>>>> parent of 933acf1... Changes in File1
-=======
 
+change - 8 local
