@@ -13,3 +13,5 @@ change - 6
 >>>>>>> parent of 933acf1... Changes in File1
 =======
 >>>>>>> parent of 933acf1... Changes in File1
+=======
+
