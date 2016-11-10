@@ -3,7 +3,7 @@
 <<<<<<< HEAD
 riya bhatia
 intermediate git
-change3 
+change - 3 
 change4
 change5
 =======
